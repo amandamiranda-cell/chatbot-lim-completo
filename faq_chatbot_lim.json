@@ -67,26 +67,26 @@
       "Como receber documentos físicos?": "Veja o [Manual de Recebimento de Documentos](https://limhc.fm.usp.br/portal/manual-documentos.pdf)."
     }
   },
-  "Gestão Econômica": {
-    "Horário de atendimento": {
-      "Qual o horário de atendimento?": "O horário de atendimento é das **7:30 às 16:00 horas**, de segunda a sexta-feira."
-    },
-    "Aquisições até R$ 8.000,00": {
-      "Como realizar aquisições até R$ 8.000,00?": "Consulte o [Manual de Aquisições](https://limhc.fm.usp.br/portal/manual-aquisicoes.pdf)."
-    },
-    "Importação": {
-      "Como realizar importações?": "Consulte o [Guia de Importações](https://limhc.fm.usp.br/portal/manual-importacao.pdf)."
-    },
-    "Bolsas de Pesquisa": {
-      "Como solicitar bolsas de pesquisa?": "Veja o [Manual de Bolsas](https://limhc.fm.usp.br/portal/manual-bolsas.pdf)."
-    },
-    "Recebimento de recursos": {
-      "Como receber recursos financeiros?": "Consulte o [Manual de Recebimento de Recursos](https://limhc.fm.usp.br/portal/manual-recursos.pdf)."
-    },
-    "Aquisições acima de R$ 8.000,00": {
-      "Como realizar aquisições acima de R$ 8.000,00?": "Consulte o [Manual de Aquisições Avançadas](https://limhc.fm.usp.br/portal/manual-aquisicoes-avancadas.pdf)."
-    }
+ "Gestão Econômica": {
+  "Horário de atendimento": {
+    "Qual o horário de atendimento?": "O horário de atendimento é das **7:30 às 16:00 horas**, de segunda a sexta-feira, conforme Manual do Usuário AGE, Seção 2.1."
   },
+  "Aquisições até R$ 8.000,00": {
+    "Como realizar aquisições até R$ 8.000,00?": "Para aquisições até R$ 8.000,00, preencha o formulário de requisição no sistema AGE e siga os passos descritos no Manual do Usuário AGE, Capítulo 4, páginas 32-35."
+  },
+  "Importação": {
+    "Como realizar importações?": "Para realizar importações, registre a solicitação no sistema AGE e aguarde aprovação conforme procedimentos do Manual do Usuário AGE, Capítulo 5, páginas 40-45."
+  },
+  "Bolsas de Pesquisa": {
+    "Como solicitar bolsas de pesquisa?": "As solicitações de bolsas de pesquisa devem ser encaminhadas pelo sistema AGE, seguindo o passo a passo do Capítulo 6 do manual, páginas 50-55."
+  },
+  "Recebimento de recursos": {
+    "Como receber recursos financeiros?": "O recebimento de recursos financeiros deve ser registrado no sistema AGE conforme orientações do Capítulo 7 do manual, páginas 60-65."
+  },
+  "Aquisições acima de R$ 8.000,00": {
+    "Como realizar aquisições acima de R$ 8.000,00?": "Para aquisições acima de R$ 8.000,00, utilize o formulário específico no sistema AGE e siga o procedimento detalhado no Capítulo 4, Seção 4.3 do Manual do Usuário AGE."
+  }
+},
   "Logística, Suprimentos e Infraestrutura": {
     "Horário de atendimento": {
       "Qual o horário de atendimento?": "O horário de atendimento é das **7:00 às 14:00 horas**, de segunda a sexta-feira."
@@ -107,4 +107,5 @@
     }
   }
 }
+
 
