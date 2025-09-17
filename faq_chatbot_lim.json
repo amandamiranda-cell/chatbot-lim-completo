@@ -67,24 +67,38 @@
       "Como receber documentos físicos?": "Veja o [Manual de Recebimento de Documentos](https://limhc.fm.usp.br/portal/manual-documentos.pdf)."
     }
   },
- "Gestão Econômica": {
+"Gestão Econômica": {
   "Horário de atendimento": {
-    "Qual o horário de atendimento?": "O horário de atendimento é das **7:30 às 16:00 horas**, de segunda a sexta-feira, conforme Manual do Usuário AGE, Seção 2.1."
+    "Qual o horário de atendimento?": "O horário de atendimento é das **7:30 às 16:00 horas**, de segunda a sexta-feira.",
+    "O atendimento funciona em feriados?": "O atendimento não funciona em feriados, seguindo o calendário oficial do HC."
   },
   "Aquisições até R$ 8.000,00": {
-    "Como realizar aquisições até R$ 8.000,00?": "Para aquisições até R$ 8.000,00, preencha o formulário de requisição no sistema AGE e siga os passos descritos no Manual do Usuário AGE, Capítulo 4, páginas 32-35."
-  },
-  "Importação": {
-    "Como realizar importações?": "Para realizar importações, registre a solicitação no sistema AGE e aguarde aprovação conforme procedimentos do Manual do Usuário AGE, Capítulo 5, páginas 40-45."
-  },
-  "Bolsas de Pesquisa": {
-    "Como solicitar bolsas de pesquisa?": "As solicitações de bolsas de pesquisa devem ser encaminhadas pelo sistema AGE, seguindo o passo a passo do Capítulo 6 do manual, páginas 50-55."
-  },
-  "Recebimento de recursos": {
-    "Como receber recursos financeiros?": "O recebimento de recursos financeiros deve ser registrado no sistema AGE conforme orientações do Capítulo 7 do manual, páginas 60-65."
+    "Como realizar aquisições até R$ 8.000,00?": "Preencha o formulário de requisição no sistema AGE e aguarde aprovação conforme procedimento interno.",
+    "Quais documentos são necessários?": "Nota fiscal ou orçamento, formulário de requisição preenchido e autorização do gestor responsável."
   },
   "Aquisições acima de R$ 8.000,00": {
-    "Como realizar aquisições acima de R$ 8.000,00?": "Para aquisições acima de R$ 8.000,00, utilize o formulário específico no sistema AGE e siga o procedimento detalhado no Capítulo 4, Seção 4.3 do Manual do Usuário AGE."
+    "Como realizar aquisições acima de R$ 8.000,00?": "Utilize o formulário específico no sistema AGE e siga o fluxo de aprovação detalhado no manual.",
+    "É necessário cotação de fornecedores?": "Sim, pelo menos 3 cotações devem ser anexadas para análise da Comissão de Compras."
+  },
+  "Importação": {
+    "Como realizar importações?": "Registre a solicitação no sistema AGE e aguarde aprovação do setor de importações.",
+    "Há restrições de itens para importação?": "Sim, alguns itens precisam de autorização especial da direção ou do setor de biossegurança."
+  },
+  "Bolsas de Pesquisa": {
+    "Como solicitar bolsas de pesquisa?": "Encaminhe a solicitação pelo sistema AGE e anexe todos os documentos exigidos.",
+    "Qual o prazo para análise?": "O prazo padrão para análise é de até 15 dias úteis após o recebimento da documentação completa."
+  },
+  "Recebimento de recursos": {
+    "Como receber recursos financeiros?": "Registre o recebimento no sistema AGE e informe os responsáveis pelo setor financeiro.",
+    "Quais documentos comprobatórios são necessários?": "Contrato, autorização de liberação de recursos e comprovante de depósito ou transferência."
+  },
+  "Relatórios e Prestação de Contas": {
+    "Como gerar relatórios de despesas?": "No sistema AGE, acesse o módulo de relatórios e selecione o período desejado.",
+    "Qual o prazo para prestação de contas?": "A prestação de contas deve ser realizada mensalmente ou conforme cronograma do setor financeiro."
+  },
+  "Solicitação de Reembolso": {
+    "Como solicitar reembolso de despesas?": "Preencha o formulário de reembolso no sistema AGE e anexe notas fiscais ou comprovantes.",
+    "Qual o prazo para aprovação do reembolso?": "O prazo médio é de 10 dias úteis após a submissão completa da documentação."
   }
 },
   "Logística, Suprimentos e Infraestrutura": {
@@ -107,5 +121,6 @@
     }
   }
 }
+
 
 
