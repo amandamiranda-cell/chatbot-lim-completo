@@ -1,0 +1,109 @@
+{
+  "Comunicação Institucional": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "O horário de atendimento é das **9h às 17h**, de segunda a sexta-feira."
+    },
+    "Divulgação de eventos": {
+      "Como divulgar um evento?": "Envie os detalhes para **comunicacao.lims@hc.fm.usp.br**.\nConsulte o [Guia de Divulgação de Eventos](https://limhc.fm.usp.br/portal/guia-de-divulgacao.pdf)."
+    },
+    "Atualização do portal LIM": {
+      "Como atualizar informações no portal?": "Entre em contato com a equipe de Comunicação Institucional.\nVeja o [Manual de Atualização do Portal](https://limhc.fm.usp.br/portal/manual-portal.pdf)."
+    }
+  },
+  "Diretoria Executiva": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento da Diretoria Executiva?": "Das **9h às 17h**, de segunda a sexta-feira."
+    },
+    "Atualização de cadastro do LIM": {
+      "Como atualizar o cadastro do LIM?": "Envie um e-mail para **diretoria.lims@hc.fm.usp.br**.\nConsulte o [Guia de Cadastro](https://limhc.fm.usp.br/portal/manual-cadastro.pdf)."
+    }
+  },
+  "Gerência Técnica": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Boas práticas laboratoriais": {
+      "Como seguir boas práticas laboratoriais?": "Consulte o [Manual de Boas Práticas Laboratoriais](https://limhc.fm.usp.br/portal/manual-bpl.pdf)."
+    }
+  },
+  "Gestão de Pesquisa e Inovação": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Sistema informatizado de produção científica": {
+      "Como acessar o sistema de produção científica?": "Acesse o [Sistema Informatizado de Produção Científica](https://limhc.fm.usp.br/portal/sistema-producao.pdf)."
+    }
+  },
+  "Gestão de Pessoas": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Regras de frequência": {
+      "Quais são as regras de frequência?": "Consulte o [Manual de Frequência do LIM](https://limhc.fm.usp.br/portal/manual-frequencia.pdf)."
+    },
+    "Benefícios": {
+      "Quais são os benefícios disponíveis?": "Veja o [Guia de Benefícios](https://limhc.fm.usp.br/portal/manual-beneficios.pdf)."
+    },
+    "Afastamentos e licenças": {
+      "Como solicitar afastamento ou licença?": "Consulte o [Manual de Afastamentos e Licenças](https://limhc.fm.usp.br/portal/manual-afastamentos.pdf)."
+    }
+  },
+  "Gestão de Projetos": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Chamadas públicas": {
+      "Como participar das chamadas públicas?": "Consulte o [Manual de Chamadas Públicas](https://limhc.fm.usp.br/portal/manual-chamadas.pdf)."
+    },
+    "Projetos em andamento": {
+      "Como acompanhar os projetos em andamento?": "Acesse o [Portal de Projetos](https://limhc.fm.usp.br/portal/projetos.pdf)."
+    }
+  },
+  "Gestão Documental": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Regras gerais para recebimento de documentos físicos": {
+      "Como receber documentos físicos?": "Veja o [Manual de Recebimento de Documentos](https://limhc.fm.usp.br/portal/manual-documentos.pdf)."
+    }
+  },
+  "Gestão Econômica": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Aquisições até R$ 8.000,00": {
+      "Como realizar aquisições até R$ 8.000,00?": "Consulte o [Manual de Aquisições](https://limhc.fm.usp.br/portal/manual-aquisicoes.pdf)."
+    },
+    "Importação": {
+      "Como realizar importações?": "Consulte o [Guia de Importações](https://limhc.fm.usp.br/portal/manual-importacao.pdf)."
+    },
+    "Bolsas de Pesquisa": {
+      "Como solicitar bolsas de pesquisa?": "Veja o [Manual de Bolsas](https://limhc.fm.usp.br/portal/manual-bolsas.pdf)."
+    },
+    "Recebimento de recursos": {
+      "Como receber recursos financeiros?": "Consulte o [Manual de Recebimento de Recursos](https://limhc.fm.usp.br/portal/manual-recursos.pdf)."
+    },
+    "Aquisições acima de R$ 8.000,00": {
+      "Como realizar aquisições acima de R$ 8.000,00?": "Consulte o [Manual de Aquisições Avançadas](https://limhc.fm.usp.br/portal/manual-aquisicoes-avancadas.pdf)."
+    }
+  },
+  "Logística, Suprimentos e Infraestrutura": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Sistema informatizado de suprimentos": {
+      "Como acessar o sistema de suprimentos?": "Acesse o [Sistema de Suprimentos](https://limhc.fm.usp.br/portal/sistema-suprimentos.pdf)."
+    },
+    "Materiais disponíveis": {
+      "Quais materiais estão disponíveis?": "Consulte a lista de [Materiais Disponíveis](https://limhc.fm.usp.br/portal/materiais-disponiveis.pdf)."
+    }
+  },
+  "Tecnologia de Informação": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "Das 9h às 17h, de segunda a sexta-feira."
+    },
+    "Conta corporativa @hc.fm.usp.br": {
+      "Como criar ou gerenciar a conta corporativa?": "Consulte o [Guia de Conta Corporativa](https://limhc.fm.usp.br/portal/manual-conta.pdf)."
+    }
+  }
+}
