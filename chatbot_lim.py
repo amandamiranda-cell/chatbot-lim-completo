@@ -17,7 +17,7 @@ emails_responsaveis = {
     "Gestão Documental": "expediente.lims@hc.fm.br",
     "Gestão Econômica": "ceflim@hc.fm.usp.br",
     "Logística, Suprimentos e Infraestrutura": "alsi.lim@hc.fm.usp.br",
-    "Rede PREMiUM",
+    "Rede PREMiUM": "premium.lim@hc.fm.usp.br",
     "Tecnologia de Informação": "eti.lims@hc.fm.usp.br"
 }
 
@@ -58,4 +58,5 @@ if area:
                         st.markdown(f"[Clique aqui para enviar sua dúvida por e-mail]({link_mailto})")
                     else:
                         st.error("E-mail da área não configurado.")
+
 
