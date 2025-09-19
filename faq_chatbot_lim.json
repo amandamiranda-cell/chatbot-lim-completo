@@ -112,6 +112,14 @@
       "Quais materiais estão disponíveis?": "Consulte a lista de [Materiais Disponíveis](https://limhc.fm.usp.br/portal/materiais-disponiveis.pdf)."
     }
   },
+  "Rede PREMiUM": {
+    "Horário de atendimento": {
+      "Qual o horário de atendimento?": "O horário de atendimento é das **7:30 às 16:00 horas**, de segunda a sexta-feira."
+    },
+    "Conta corporativa @hc.fm.usp.br": {
+      "Como criar ou gerenciar a conta corporativa?": "Consulte o [Guia de Conta Corporativa](https://limhc.fm.usp.br/portal/manual-conta.pdf)."
+    }
+  },
   "Tecnologia de Informação": {
     "Horário de atendimento": {
       "Qual o horário de atendimento?": "O horário de atendimento é das **7:30 às 16:00 horas**, de segunda a sexta-feira."
@@ -121,6 +129,7 @@
     }
   }
 }
+
 
 
 
